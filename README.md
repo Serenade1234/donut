@@ -1,3 +1,2 @@
 # donut
-<img src="https://user-images.githubusercontent.com/52326196/75462044-f52d3a00-59c6-11ea-978e-76a3b64c5bc8.png"　width="320">
-
+![スクリーンショット 2020-02-28 0 13 38](https://user-images.githubusercontent.com/52326196/75462482-ad5ae280-59c7-11ea-80da-bc0cc5d5f4f4.png)
